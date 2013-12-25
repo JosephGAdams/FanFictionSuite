@@ -1,0 +1,11 @@
+last_story {
+    'name': None,
+    'location': None}
+
+last_chapter = {
+    'name': None,
+    }
+
+last_chapter_place = {
+    'position': None
+                }
