@@ -56,7 +56,7 @@ class MainFrame(wx.Frame):
         panel.SetSizer(sizer)
         self.Maximize(True)
 
-        # bindings here - Nasty as fuck, change if possible.
+        # bindings here - change if possible
         self.download_page.url_button.Bind(wx.EVT_BUTTON, self.download_page.on_click)
         self.download_page.location_button.Bind(wx.EVT_BUTTON, self.download_page.choose_location)
         self.download_page.library.Bind(wx.EVT_LISTBOX_DCLICK, self.download_page.lib_click)
