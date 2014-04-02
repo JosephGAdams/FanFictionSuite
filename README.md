@@ -1,5 +1,5 @@
-
 FanFictionSuite
 
-Download, read and create ebooks using various fanfiction websites.
+Download and read using various fanfiction websites.
+Eventually will be able to create at least epub documents, currently spotty.
 
